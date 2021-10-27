@@ -11,5 +11,5 @@ Any further questions contact rain#3950 on Discord
 
 ![Hubris](https://i.imgur.com/wPy5Lha.jpeg)
 ![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
-![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
+![Hubris](https://i.imgur.com/ur9ffz3.jpeg)
 ![Hubris](https://i.imgur.com/SY9aCi8.png)
