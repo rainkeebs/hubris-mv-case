@@ -5,7 +5,7 @@ Top mount case for Minivan pcbs. Has a 5 degree angle and a front height of ~20m
 
 Uses 10x m2.5x4(ish)mm screws, [coriander plate](https://trashman.wiki/en/files), and PrimeKB feet.
 
-HHKB top has a 1.25u blocker on the left side, 1u on the right side.
+HHKB top has a 1.25u blocker on the left side, 1u on the right side. bottom-rain has a little rain cloud debossed on it :)
 
 As of the date this is last updated these files have been tested with 3D printing, and a CNC version is in production.
 
