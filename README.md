@@ -8,3 +8,8 @@ Uses 10x m2.5x4(ish)mm screws, [coriander plate](https://trashman.wiki/en/files)
 As of the date this is last updated these files have been tested with 3D printing, and a CNC version is in production.
 
 Any further questions contact rain#3950 on Discord
+
+![Hubris](https://i.imgur.com/wPy5Lha.jpeg)
+![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
+![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
+![Hubris](https://i.imgur.com/SY9aCi8.png)
