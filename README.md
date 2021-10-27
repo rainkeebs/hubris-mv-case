@@ -1,4 +1,4 @@
-# hubris-mv-cas
+# Hubris Case for Minivan PCBs
 Before using these files please know that I am *not responsible* for any outcomes of their use. These files are uploaded with The Unlicense, feel free to modify, use, distribute, sell, whatever, without permission from me. Again, I am *not liable* for *any* use of these. Thank you.
 
 Top mount case for Minivan pcbs.
