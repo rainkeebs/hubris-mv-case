@@ -1,0 +1,1 @@
+HubrisTopHeatset is a top piece modified by community member Glow to use heatset inserts for the 10 screw holes. (These)[https://www.amazon.com/gp/product/B09333311H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1] are the specific ones he used.
