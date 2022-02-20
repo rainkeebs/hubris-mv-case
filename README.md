@@ -11,6 +11,7 @@ As of the date this is last updated these files have been tested with FDM and SL
 
 Any further questions contact rain#3950 on Discord
 
+![Hubris](https://i.imgur.com/IRf7rW5.jpg)
 ![Hubris](https://i.imgur.com/wPy5Lha.jpeg)
 ![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
 ![Hubris](https://i.imgur.com/ur9ffz3.jpeg)
